@@ -1,0 +1,10 @@
+Package: com.rainbowjie.ispanks
+Name: iSpanks
+Version: 2.4
+Architecture: iphoneos-arm
+Description: iSpanks - 18+ Only
+Depiction: http://itiaprepo.com/rainbowjie/debs/com.rainbowjie.ispanks/FILE/index.html
+Maintainer: iSpanks
+Author: iSpanks
+Section: 软件
+Icon: http://itiaprepo.com/tiz38/test.png

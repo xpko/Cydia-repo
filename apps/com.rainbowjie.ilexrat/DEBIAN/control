@@ -1,0 +1,13 @@
+Package: com.rainbowjie.ilexrat
+Name: iLEX R.A.T.
+Version: 1.10-115
+Architecture: iphoneos-arm
+Description: Revive, Speed Up, Clean Up Your iDevice (iLEX-RESTORE). Remove All Cydia Apps & Tweaks & Dependencies At Once! Cydia Repair! Backup & Restore All Cydia Apps & Tweaks & Dependencies (DEB)!
+Depiction: http://itiaprepo.com/rainbowjie/debs/com.rainbowjie.ilexrat/FILE/index.html
+Maintainer: iLEX  <ilexrepo@gmail.com>
+Author: iLEX  <ilexrepo@gmail.com>
+Sponsor: iLEX  <http://twitter.com/iLEXiNFO/>
+Section: 工具
+Depends: apt7, sed, coreutils, coreutils-bin, openssl, openssh, gawk, zip, unzip
+Conflicts: com.myrepospace.iLEX.rat-eng
+Icon: http://itiaprepo.com/tiz38/test.png
