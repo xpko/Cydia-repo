@@ -11,3 +11,15 @@ Icon: http://itiaprepo.com/tiz38/test.png
 Size: 908858
 MD5sum: 3a68ccaf42dbef202e69a4be5a6026ac
 Filename: ./debs/com.rainbowjie.ispanks/com.rainbowjie.ispanks.deb
+
+Package: re.frida.server
+Name: frida
+Version: 15.1.2
+Architecture: iphoneos-arm
+Description: frida
+Depiction: frida server old
+Maintainer: frida
+Author: frida
+Section: 软件
+Icon: http://itiaprepo.com/tiz38/test.png
+Filename: ./debs/re.frida.server/frida_15.1.2_iphoneos-arm.deb
