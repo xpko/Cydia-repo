@@ -1,35 +1,3 @@
-
-Package: com.rainbowjie.appsyncforios5060
-Name: AppSync for IOS5.0+6.0+
-Version: 2.2
-Architecture: iphoneos-arm
-Description: AppSync是允许您安装破解软件的补丁。
-Depiction: http://itiaprepo.com/rainbowjie/debs/com.rainbowjie.appsyncforios5060/FILE/index.html
-Author: Dissident  <apps@hackulo.us>
-Section: 破解
-Conflicts: us.hackulo.appsync50, us.hackulo.appsync50, com.xsellize.appsync50, com.xsellize.appsync50plus, us.hackulo.appsync50plus, appsync50plus.178
-Icon: http://itiaprepo.com/tiz38/test.png
-Size: 4500
-MD5sum: 1cc0beeaf40fb0a751bd0f926e55ced8
-Filename: ./debs/com.rainbowjie.appsyncforios5060/com.rainbowjie.appsyncforios5060.deb
-
-Package: com.rainbowjie.ilexrat
-Name: iLEX R.A.T.
-Version: 1.10-115
-Architecture: iphoneos-arm
-Description: Revive, Speed Up, Clean Up Your iDevice (iLEX-RESTORE). Remove All Cydia Apps & Tweaks & Dependencies At Once! Cydia Repair! Backup & Restore All Cydia Apps & Tweaks & Dependencies (DEB)!
-Depiction: http://itiaprepo.com/rainbowjie/debs/com.rainbowjie.ilexrat/FILE/index.html
-Maintainer: iLEX  <ilexrepo@gmail.com>
-Author: iLEX  <ilexrepo@gmail.com>
-Sponsor: iLEX  <http://twitter.com/iLEXiNFO/>
-Section: 工具
-Depends: apt7, sed, coreutils, coreutils-bin, openssl, openssh, gawk, zip, unzip
-Conflicts: com.myrepospace.iLEX.rat-eng
-Icon: http://itiaprepo.com/tiz38/test.png
-Size: 774884
-MD5sum: acd27c0b80ed881c56d4992e9df29e64
-Filename: ./debs/com.rainbowjie.ilexrat/com.rainbowjie.ilexrat.deb
-
 Package: com.rainbowjie.ispanks
 Name: iSpanks
 Version: 2.4
